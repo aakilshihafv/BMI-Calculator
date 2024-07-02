@@ -13,7 +13,7 @@ This project is a simple BMI (Body Mass Index) calculator application built with
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/aakilshihafv/bmi-calculator
+    git clone https://github.com/aakilshihafv/BMI-calculator
     cd bmi-calculator
     ```
 
@@ -45,7 +45,7 @@ This project is a simple BMI (Body Mass Index) calculator application built with
 
 ## Screenshot
 
-![BMI Calculator](https://github.com/aakilshihafv/bmi-calculator/blob/main/image/bmi-design.png)
+![BMI Calculator](https://github.com/aakilshihafv/BMI-calculator/blob/main/image/bmi-design.png)
 
 ## Contributing
 
